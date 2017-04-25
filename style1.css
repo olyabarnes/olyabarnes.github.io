@@ -38,14 +38,11 @@ td {
 	color: #9F2204;
 	text-indent: 21px;
 	font: 21px/1.5 Monotype Corsiva;
+	lang:  
 }
 
-h3 {
+h3, h1{
 	color: #333;
-}
-
-h1 { 
-	color: #F90B6D; font-family: ‘Open Sans’, sans-serif; font-size: 34px; font-weight: 300; line-height: 40px; margin: 0 0 16px; 
 }
 
 #tx {
