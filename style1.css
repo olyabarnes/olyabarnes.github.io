@@ -34,7 +34,7 @@ td {
 	background: #FFC599;
 }
 
-#pp {
+#prt {
 	color: #9F2204;
 	text-indent: 21px;
 	font: 21px/1.5 Monotype Corsiva;
@@ -43,10 +43,6 @@ td {
 
 h3, h1{
 	color: #333;
-}
-
-#tx {
-	font-weight: bold;
 }
 
 #header {
